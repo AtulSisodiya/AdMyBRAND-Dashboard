@@ -18,7 +18,7 @@ const CustomTooltip = ({ active, payload, label }: any) => {
         </Card>
       );
     }
-
+  
     return null;
 };
 
@@ -33,7 +33,6 @@ export function CampaignBarChart({ onCitySelect }: { onCitySelect: (city: string
         <CartesianGrid strokeDasharray="3 3" horizontal={false} />
         <XAxis
           type="number"
-          // Using a direct color value to guarantee consistency
           stroke="#888888"
           fontSize={12}
           tickLine={false}
@@ -43,7 +42,6 @@ export function CampaignBarChart({ onCitySelect }: { onCitySelect: (city: string
         <YAxis
           type="category"
           dataKey="city"
-          // Using a direct color value to guarantee consistency
           stroke="#888888"
           fontSize={12}
           tickLine={false}
@@ -58,7 +56,8 @@ export function CampaignBarChart({ onCitySelect }: { onCitySelect: (city: string
           fill="#82ca9d"
           radius={[0, 4, 4, 0]}
           cursor="pointer"
-          onClick={(data) => onCitySelect(data.city)}
+          // THE FIX IS HERE: Access the city via data.payload
+          onClick={(data) => onCitySelect(data.payload.city)}
         />
       </BarChart>
     </ResponsiveContainer>
