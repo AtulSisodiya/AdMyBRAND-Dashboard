@@ -38,7 +38,7 @@ A modern, responsive analytics dashboard built for a fictional digital marketing
 - **Data Table:** [TanStack Table](https://tanstack.com/table)
 - **Deployment:** [Vercel](https://vercel.com/)
 
-![Dashboard Screenshot](./screenshot.png)
+![Dashboard Screenshot](./Screenshots.jpg)
 *(**Note:** To add a screenshot, take a picture of your live application, name it `screenshot.png`)*
 
 ## Getting Started
