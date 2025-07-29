@@ -4,14 +4,11 @@
 
 A modern, responsive analytics dashboard built for a fictional digital marketing platform. This project showcases key business metrics through interactive charts, a filterable data table, and a beautiful, theme-aware UI. The data, currency (₹), and theming are localized for an Indian business context.
 
-### 🔴 [Live Demo](https://ad-my-brand-dashboard-bvuz-6p7oqx7rf-atul-sisodiyas-projects.vercel.app/)
-
-![Dashboard Screenshot](./screenshot.png)
-*(**Note:** To add a screenshot, take a picture of your live application, name it `screenshot.png`)*
+###  [Live Demo](https://ad-my-brand-dashboard-bvuz-6p7oqx7rf-atul-sisodiyas-projects.vercel.app/)
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Fully Responsive Design:** Optimized for desktop, tablet, and mobile with an intelligent, adaptive layout.
 - **Light & Dark Mode:** Seamless theme switching with a dedicated toggle.
@@ -31,7 +28,7 @@ A modern, responsive analytics dashboard built for a fictional digital marketing
     - **Tabbed Interface:** To cleanly organize related content and save space.
     - **Loading Skeletons:** Professional loading state for an enhanced user experience.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** [Next.js](https://nextjs.org/) 14+ (App Router)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
@@ -41,7 +38,10 @@ A modern, responsive analytics dashboard built for a fictional digital marketing
 - **Data Table:** [TanStack Table](https://tanstack.com/table)
 - **Deployment:** [Vercel](https://vercel.com/)
 
-## 🚀 Getting Started
+![Dashboard Screenshot](./screenshot.png)
+*(**Note:** To add a screenshot, take a picture of your live application, name it `screenshot.png`)*
+
+## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
