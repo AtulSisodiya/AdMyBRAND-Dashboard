@@ -39,7 +39,7 @@ A modern, responsive analytics dashboard built for a fictional digital marketing
 - **Deployment:** [Vercel](https://vercel.com/)
 
 ![Dashboard Screenshot](./Screenshots.jpg)
-*(**Note:** To add a screenshot, take a picture of your live application, name it `screenshot.png`)*
+*(**Note:** This is screenshot of live application. )*
 
 ## Getting Started
 
