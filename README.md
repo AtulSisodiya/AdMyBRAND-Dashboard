@@ -4,16 +4,14 @@
 
 A modern, responsive analytics dashboard built for a fictional digital marketing platform. This project showcases key business metrics through interactive charts, a filterable data table, and a beautiful, theme-aware UI. The data, currency (₹), and theming are localized for an Indian business context.
 
-### 🔴 [Live Demo](https://your-project-name.vercel.app/)
+### 🔴 [Live Demo](https://ad-my-brand-dashboard-bvuz-6p7oqx7rf-atul-sisodiyas-projects.vercel.app/)
 
-*(Replace `your-project-name.vercel.app` with your actual Vercel URL after deployment)*
-
-![Dashboard Screenshot](./public/screenshot.png)
-*(**Note:** To add a screenshot, take a picture of your running application, name it `screenshot.png`, and place it inside the `/public` folder of your project.)*
+![Dashboard Screenshot](./screenshot.png)
+*(**Note:** To add a screenshot, take a picture of your live application, name it `screenshot.png`)*
 
 ---
 
-## Features
+## ✨ Features
 
 - **Fully Responsive Design:** Optimized for desktop, tablet, and mobile with an intelligent, adaptive layout.
 - **Light & Dark Mode:** Seamless theme switching with a dedicated toggle.
@@ -33,7 +31,7 @@ A modern, responsive analytics dashboard built for a fictional digital marketing
     - **Tabbed Interface:** To cleanly organize related content and save space.
     - **Loading Skeletons:** Professional loading state for an enhanced user experience.
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - **Framework:** [Next.js](https://nextjs.org/) 14+ (App Router)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
@@ -43,7 +41,7 @@ A modern, responsive analytics dashboard built for a fictional digital marketing
 - **Data Table:** [TanStack Table](https://tanstack.com/table)
 - **Deployment:** [Vercel](https://vercel.com/)
 
-##  Getting Started
+## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -72,8 +70,8 @@ Make sure you have Node.js (v18 or later) installed on your machine.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-##  AI Collaboration
+## 🤖 AI Collaboration
 
-This entire project was built through a conversational development process with **Google's Gemini AI Pro 2.5** and using Cursor. The process involved step-by-step guidance, complete component generation, feature implementation, and iterative debugging to arrive at the final, polished product.
+This entire project was built through a conversational development process with **Google's Gemini AI Pro 2.5** and using **Cursor**. The process involved step-by-step guidance, complete component generation, feature implementation, and iterative debugging to arrive at the final, polished product.
 
 ---
